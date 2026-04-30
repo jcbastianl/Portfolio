@@ -2,7 +2,7 @@
 
 Guía breve para clonar, instalar y ejecutar el proyecto, cualquier duda sigueme en Instagram. 😁
 
-[![Instagram](https://img.shields.io/badge/Instagram-@luiscortespenguin-E4405F?logo=instagram&logoColor=white)](https://instagram.com/luiscortespenguin)
+[![Instagram](https://img.shields.io/badge/Instagram-@cebas.snz-E4405F?logo=instagram&logoColor=white)](https://instagram.com/cebas.snz)
 
 ## Requisitos
 - Node.js 18+ (recomendado 20)
@@ -10,8 +10,8 @@ Guía breve para clonar, instalar y ejecutar el proyecto, cualquier duda sigueme
 
 ## Instalación
 ```bash
-git clone <https://github.com/luisjosuecortes/Portafolio1.git>
-cd paginaPersonal
+git clone <https://github.com/jcbastianl/Portafolio.git>
+cd Portafolio
 npm install
 ```
 
@@ -33,9 +33,9 @@ npm start
 
 Por favor, apóyame dando una estrella a este repositorio y siguiéndome en mis redes. ¡Esto me ayuda muchísimo a seguir creando!
 
-- Instagram: `https://instagram.com/luiscortespenguin`
-- LinkedIn: `https://www.linkedin.com/in/luis-cort%C3%A9s-penguin/`
-- GitHub: `https://github.com/luisjosuecortes`
+- Instagram: `https://instagram.com/cebas.snz`
+- LinkedIn: `https://www.linkedin.com/in/joseph-balcazar-loaiza-33324228b`
+- GitHub: `https://github.com/jcbastianl`
 
 ## Estructura de carpetas
 ```text

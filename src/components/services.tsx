@@ -30,8 +30,8 @@ export function Services() {
   const services = [
     {
       id: 1,
-      title: "Desarrollo Web",
-      description: "Creación de aplicaciones web modernas y responsivas con las últimas tecnologías",
+      title: "Backend & Frameworks",
+      description: "Desarrollo de lógica de negocio robusta usando Python y Django. Arquitecturas monolíticas.",
       icon: (
         <svg
           width="40"
@@ -52,8 +52,8 @@ export function Services() {
     },
     {
       id: 2,
-      title: "Inteligencia Artificial",
-      description: "Desarrollo de modelos de IA y machine learning para soluciones innovadoras",
+      title: "Bases de Datos",
+      description: "Diseño y optimización de bases de datos relacionales, manejo de SQL y PostgreSQL.",
       icon: (
         <svg
           width="40"
@@ -73,8 +73,8 @@ export function Services() {
     },
     {
       id: 3,
-      title: "Full Stack",
-      description: "Soluciones completas desde el backend hasta el frontend, optimizadas y escalables",
+      title: "DevOps & Entornos",
+      description: "Manejo de Linux, control de versiones con Git/GitHub y despliegues en plataformas cloud como Render y Vercel.",
       icon: (
         <svg
           width="40"
@@ -122,10 +122,10 @@ export function Services() {
       <div className="max-w-7xl w-full relative z-10">
         <div className="text-center mb-12 sm:mb-16">
           <h2 className="text-3xl sm:text-4xl md:text-5xl lg:text-6xl font-bold text-gray-900 mb-3 sm:mb-4">
-            Mis <span className="text-transparent bg-clip-text bg-gradient-to-r from-gray-900 to-gray-600">Servicios</span>
+            Mis <span className="text-transparent bg-clip-text bg-gradient-to-r from-gray-900 to-gray-600">Habilidades</span>
           </h2>
           <p className="text-base sm:text-lg lg:text-xl text-gray-600 max-w-2xl mx-auto">
-            Lo que puedo hacer por ti
+            Tecnologías y herramientas que domino
           </p>
         </div>
 
@@ -160,7 +160,7 @@ export function Services() {
 
         <div className="flex justify-center mt-12 sm:mt-16 animate-fade-up" style={{ animationDelay: "0.5s" }}>
           <a 
-            href="https://instagram.com/luiscortespenguin"
+            href="https://www.linkedin.com/in/joseph-balcazar-loaiza-33324228b"
             target="_blank"
             rel="noopener noreferrer"
             className="group bg-white border-2 border-black text-black px-6 py-3 sm:px-10 sm:py-5 rounded-full flex items-center gap-2 sm:gap-3 hover:bg-black hover:text-white hover:scale-105 transition-all duration-300 shadow-lg hover:shadow-xl cursor-pointer text-base sm:text-lg font-semibold"
@@ -179,7 +179,7 @@ export function Services() {
               <path d="M5 12h14" />
               <polyline points="12 5 19 12 12 19" />
             </svg>
-            <span>Contratame</span>
+            <span>Contratarme</span>
           </a>
         </div>
       </div>

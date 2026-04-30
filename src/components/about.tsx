@@ -41,7 +41,7 @@ export function About() {
           <div className="w-96 h-[32rem] lg:w-[30rem] lg:h-[40rem] overflow-hidden rounded-3xl shadow-2xl">
             <img
               src="/me2.jpg"
-              alt="Luis Cortés"
+              alt="Joseph Balcazar"
               className="w-full h-full object-cover hover:scale-105 transition-transform duration-500"
             />
           </div>
@@ -68,12 +68,10 @@ export function About() {
                  opacity: 0 
                }}>
             <h3 className="text-2xl font-bold text-gray-900 mb-3">
-              Luis Cortés
+              Joseph Balcazar
             </h3>
             <p className="text-lg text-gray-600 leading-relaxed">
-              Estudiante de Inteligencia Artificial en sus últimos semestres en
-              la Universidad Autónoma del Estado de Morelos. Apasionado por la
-              programación, el desarrollo web y la ciencia de datos.
+              Soy estudiante de 7mo ciclo de Ingeniería de Software en la Universidad Nacional de Loja, apasionado por el desarrollo backend y la creación de soluciones escalables. Me especializo en construir aplicaciones robustas utilizando Python, Django y PostgreSQL, complementadas con experiencia práctica en entornos Linux y despliegues web. Busco aportar valor, resolver problemas reales y seguir creciendo junto a un equipo técnico experimentado.
             </p>
           </div>
 
@@ -88,11 +86,11 @@ export function About() {
             <div className="space-y-2 text-gray-600">
               <p className="hover:text-gray-900 transition-colors">
                 <span className="font-semibold">
-                  Universidad Autónoma del Estado de Morelos (UAEM)
+                  Universidad Nacional de Loja (UNL)
                 </span>
               </p>
-              <p className="text-sm hover:text-gray-900 transition-colors">Licenciatura en Inteligencia Artificial</p>
-              <p className="text-sm hover:text-gray-900 transition-colors">Actualmente estudiando</p>
+              <p className="text-sm hover:text-gray-900 transition-colors">Ingeniería de Software</p>
+              <p className="text-sm hover:text-gray-900 transition-colors">7mo ciclo - Actualmente estudiando</p>
             </div>
           </div>
 
@@ -107,15 +105,14 @@ export function About() {
             <div className="space-y-2 text-gray-600">
               <p className="hover:text-gray-900 transition-colors">
                 <span className="font-semibold">
-                  Asistente en Investigación
+                  Desarrollador de Software
                 </span>{" "}
-                - UAEM CINC Morelos
+                - Proyectos Personales
               </p>
               <p className="text-sm hover:text-gray-900 transition-colors">
-                Proyectos en Ciencia de Datos y su aplicación en Series de
-                Tiempo (EEG, MEG, fMRI, Ritmo Cardíaco)
+                Desarrollo de aplicaciones web escalables y sistemas CRUD usando Python, Django y PostgreSQL. Despliegues en Render y Vercel.
               </p>
-              <p className="text-sm hover:text-gray-900 transition-colors">2025 – Actualmente</p>
+              <p className="text-sm hover:text-gray-900 transition-colors">2023 – Actualmente</p>
             </div>
           </div>
 
@@ -130,12 +127,12 @@ export function About() {
             <div className="flex flex-wrap gap-2">
               {[
                 "Python",
-                "AI/ML",
-                "PyTorch",
-                "TypeScript",
-                "React",
-                "Node.js",
+                "Django",
+                "PostgreSQL",
+                "Linux",
                 "Git",
+                "Render",
+                "Vercel",
               ].map((skill, index) => (
                 <span
                   key={skill}
