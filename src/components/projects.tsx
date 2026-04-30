@@ -36,7 +36,7 @@ export function Projects() {
       technologies: ["Python", "PostgreSQL", "Render", "Vercel"],
       demo: "https://purple-tree-0b01a5c0f.7.azurestaticapps.net/",
       github: "https://github.com/jcbastianl/visor_siniestros",
-      image: "/visorproyecto.png",
+      image: "/Portfolio/visorproyecto.png",
       showOnlyDemo: true,
     },
     {
@@ -47,7 +47,7 @@ export function Projects() {
       technologies: ["Django", "Python", "ORM", "SQL"],
       demo: "#",
       github: "https://github.com/jcbastianl/backendRecetario",
-      image: "/proyecto2.png",
+      image: "/Portfolio/proyecto2.png",
       showOnlyDemo: false,
     },
   ];

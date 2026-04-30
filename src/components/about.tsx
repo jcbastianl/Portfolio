@@ -40,7 +40,7 @@ export function About() {
         <div className="flex justify-center lg:justify-start animate-fade-up">
           <div className="w-96 h-[32rem] lg:w-[30rem] lg:h-[40rem] overflow-hidden rounded-3xl shadow-2xl">
             <img
-              src="/me2.jpg"
+              src="/Portfolio/me2.jpg"
               alt="Joseph Balcazar"
               className="w-full h-full object-cover hover:scale-105 transition-transform duration-500"
             />

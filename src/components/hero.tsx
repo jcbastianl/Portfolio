@@ -103,7 +103,7 @@ export function Hero() {
               <span className="font-medium">Contratar</span>
             </a>
             <a 
-              href="/cv.pdf" 
+              href="/Portfolio/cv.pdf" 
               target="_blank"
               rel="noopener noreferrer"
               className="group bg-black text-white px-6 py-3 sm:px-8 sm:py-4 rounded-full flex items-center justify-center gap-2 sm:gap-3 hover:bg-gray-800 hover:scale-105 hover:rotate-1 transition-all duration-300 shadow-lg hover:shadow-2xl cursor-pointer text-sm sm:text-base"
@@ -187,7 +187,7 @@ export function Hero() {
             <div className="absolute inset-0 bg-gradient-to-br from-gray-100 via-gray-50 to-gray-200 rounded-3xl shadow-2xl transform group-hover:scale-105 transition-transform duration-300 border border-gray-100" />
             <div className="absolute inset-3 sm:inset-4 rounded-2xl overflow-hidden pointer-events-none">
               <img
-                src="/me.jpg"
+                src="/Portfolio/me.jpg"
                 alt="Joseph"
                 className="w-full h-full object-contain"
               />
