@@ -10,8 +10,8 @@ Guía breve para clonar, instalar y ejecutar el proyecto, cualquier duda sigueme
 
 ## Instalación
 ```bash
-git clone <https://github.com/jcbastianl/Portafolio.git>
-cd Portafolio
+git clone <https://github.com/jcbastianl/Portfolio.git>
+cd Portfolio
 npm install
 ```
 
