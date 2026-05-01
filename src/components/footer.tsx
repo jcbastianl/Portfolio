@@ -38,7 +38,7 @@ export function Footer() {
               </li>
               <li>
                 <a
-                  href="/Portfolio/cv.pdf"
+                  href="/Portfolio/CV_Joseph_Balcazar.pdf"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="text-gray-400 hover:text-white transition-colors text-sm duration-200"

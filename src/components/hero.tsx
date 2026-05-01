@@ -103,7 +103,7 @@ export function Hero() {
               <span className="font-medium">Contratar</span>
             </a>
             <a 
-              href="/Portfolio/cv.pdf" 
+              href="/Portfolio/CV_Joseph_Balcazar.pdf" 
               target="_blank"
               rel="noopener noreferrer"
               className="group bg-black text-white px-6 py-3 sm:px-8 sm:py-4 rounded-full flex items-center justify-center gap-2 sm:gap-3 hover:bg-gray-800 hover:scale-105 hover:rotate-1 transition-all duration-300 shadow-lg hover:shadow-2xl cursor-pointer text-sm sm:text-base"
