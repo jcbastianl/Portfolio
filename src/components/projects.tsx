@@ -45,8 +45,8 @@ export function Projects() {
       description:
         "Aplicación web integral para gestión de recetas. Implementa un sistema CRUD complejo con patrón MVT y manejo robusto de autenticación y base de datos.",
       technologies: ["Django", "Python", "ORM", "SQL"],
-      demo: "#",
-      github: "https://github.com/jcbastianl/backendRecetario",
+      demo: "https://recetario-lilac.vercel.app/sobre-nosotros",
+      github: "https://github.com/jcbastianl/Recetario.git",
       image: "/Portfolio/proyecto2.png",
       showOnlyDemo: false,
     },
