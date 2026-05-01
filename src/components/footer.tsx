@@ -38,10 +38,12 @@ export function Footer() {
               </li>
               <li>
                 <a
-                  href="#servicios"
+                  href="/Portfolio/cv.pdf"
+                  target="_blank"
+                  rel="noopener noreferrer"
                   className="text-gray-400 hover:text-white transition-colors text-sm duration-200"
                 >
-                  Habilidades
+                  Descargar CV
                 </a>
               </li>
             </ul>
