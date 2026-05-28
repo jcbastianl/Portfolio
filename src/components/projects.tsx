@@ -50,6 +50,17 @@ export function Projects() {
       image: "/Portfolio/proyecto2.png",
       showOnlyDemo: false,
     },
+    {
+      id: 3,
+      title: "JobSearch",
+      description:
+        "Plataforma de búsqueda de empleo orientada a ayudar especialmente a perfiles junior a conseguir su primer trabajo.",
+      technologies: ["Django", "Python", "Tailwind CSS", "PostgreSQL"],
+      demo: "#",
+      github: "#",
+      image: "/Portfolio/jobsearch.png",
+      showOnlyDemo: false,
+    },
   ];
 
   return (
